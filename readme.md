@@ -124,4 +124,4 @@ Ou use os endpoints diretamente:
 
 Gostei bastante da proposta! Foi uma ótima oportunidade para aplicar princípios que valorizo: código limpo, arquitetura bem definida, versionamento, logging estruturado e documentação clara.
 
-Se tivesse mais tempo, com certeza teria incluído testes unitários mais robustos e até um painel web (com Next.js ou outras tecnologias que domino) para visualização gráfica em tempo real dos rankings por partida. Tenho várias ideias de melhorias que poderiam transformar esse parser em uma solução completa e escalável.
+Se tivesse mais tempo, com certeza teria incluído testes unitários mais robustos e até um painel web (com Next.js ou outras tecnologias que domino) para visualização gráfica em tempo real dos rankings por partida.
